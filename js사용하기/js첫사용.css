@@ -1,0 +1,7 @@
+.jb:hover {
+	transform: rotate( 360deg );
+}
+
+.ab:hover {
+	transform: rotate( -450deg );
+}
