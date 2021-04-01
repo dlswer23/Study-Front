@@ -1,7 +1,6 @@
 body{
 
     width: 1000px;
-    /* height: 3000px; */
     display: flex;
     margin : 0 auto;
     align-items: center;
@@ -37,8 +36,6 @@ a{
     height: 80px;
     border-bottom: gray 1px solid;
 
-    
-    
 }
 
 #a{
@@ -64,11 +61,6 @@ a{
     height: 20px;
 }
 
-.container{
-
-
-
-}
 
 #my-profile{
     border: hotpink 2px;
@@ -84,14 +76,6 @@ a{
 #second{
     opacity: 0.5;
 }
-
-.my-img{
-
-
-    
-}
-
-
 
 
 #a2{
@@ -115,7 +99,6 @@ a{
 
     width: 90%;
     height: 120%;
-  /*   border: hotpink 5px; */
 
 }
 
@@ -130,7 +113,6 @@ a{
     top: 50%;
     word-spacing: 2px;
     line-height: 30px;
-/*     margin-right: 20px; */
 
 }
 
@@ -146,18 +128,12 @@ a{
 }
 
 #Skills{
-   /*  border: hotpink 2px; */
+  
     width: 100%;
     height:470px;
-  /*  /*  border:  1px solid violet; */
     display: flex;
-   /*  border-bottom: gray 1px solid; */
-/*     box-shadow: gray 1px 2px 3px; */ 
 
 border-bottom: gray solid 1px;
-
-    
-   
 
 }
 
@@ -173,23 +149,14 @@ border-bottom: gray solid 1px;
 }
 
 #all_image img{
-/*     margin-top: 60px; */
 
-   /*  margin-top: 80px;
-    margin-left: 50px; */
     border-radius: 100px;
     width: 100px;
-    height: 100px;/* 
-    margin:70px 30px 20px 8px; */
-
-    
+    height: 100px;    
 
 }
 
-#all_image{
-    /* display: flex; */
 
-}
 
 #project p{
     
@@ -259,12 +226,7 @@ border-bottom: gray solid 1px;
     
 }
 
-/* span{
 
-    font-size: 15px;
-    font-family: 'Noto Sans KR', sans-serif;;
-
-} */
 
 .image_cover{
     margin-top: 80px;
@@ -297,11 +259,6 @@ border-bottom: gray solid 1px;
 
 b1{
     font-size: 200px;
-}
-
-#Skills p1{
-
-   
 }
 
 .people{
@@ -380,31 +337,6 @@ b1{
     
     }
 
-/* .box3{
-        margin: 50px;
-            border-radius: 20px;
-            border: black 3px;
-            width: 300px;
-            height: 200px;
-            display: flex;
-            border: gray 1px solid;
-            background-color:white; 
-        
-        
-        }
-
- .box4{
-        margin: 50px;
-                border-radius: 20px;
-                border: black 3px;
-                width: 300px;
-                height: 200px;
-                display: flex;
-                border: gray 1px solid;
-                background-color:rgb(34, 54, 110); 
-            
-            
-            }        */
  #For{
 
     display: flex;
@@ -415,7 +347,7 @@ b1{
     font-style: italic;
     color: silver;
     font-weight: bold;
-    /* text-shadow: gray 2px 2px 2px; */
+    
 
  }       
 
